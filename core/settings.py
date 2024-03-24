@@ -24,8 +24,8 @@ SECRET_KEY = 'django-insecure-+n59f)4^bw%ndyho%3#w#_zmsr@_rxhvi7810@%djo@ip+#%a2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['quiz-html-dev-sffj.3.us-1.fl0.io/']
-CSRF_TRUSTED_ORIGINS = ['https://quiz-html-dev-sffj.3.us-1.fl0.io/']
+ALLOWED_HOSTS = ['quiz-html-dev-sffj.3.us-1.fl0.io']
+CSRF_TRUSTED_ORIGINS = ['https://quiz-html-dev-sffj.3.us-1.fl0.io']
 
 # Application definition
 
